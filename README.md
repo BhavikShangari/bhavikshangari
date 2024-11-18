@@ -24,12 +24,9 @@ I'm **Bhavik Shangari**, a passionate Machine Learning and Artificial Intelligen
 - Designed and built a robotic arm using **computer vision**, **microcontrollers**, and **linear algebra**.
 - Mimicked human hand movements for imitation learning and assistance for physically-aided individuals.
 
-### 🧠 [Multimodal LLMs for Network Domain](https://github.com/BhavikShangari)
-- Integrated multimodal models to resolve issues related to **3GPP documents**.
-- Focused on **multimodal retrieval**, **alignment**, and **integration**.
-
 ### 📈 [Stock Market Forecasting](https://github.com/BhavikShangari/DS250_Project)
 - Built a novel **Date&Time2Vec** embedding method for capturing temporal relations in stock market data.
+- Implemented a **Transformer** architecture from scratch in PyTorch.
 - Processed 15 years of stock data with 5M+ data points, combining sentiment analysis and transformer architectures.
 
 ### 🏥 [CloudPhysician](https://github.com/BhavikShangari/Cloudphysician)
