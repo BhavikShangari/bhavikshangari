@@ -3,6 +3,8 @@
 🌟 Welcome to my GitHub profile!  
 I'm **Bhavik Shangari**, a passionate Machine Learning and Artificial Intelligence enthusiast with a deep interest in robotics and solving real-world problems using advanced computational techniques. My expertise lies in developing and fine-tuning AI models, with a recent focus on **Large Language Models (LLMs)** and **Generative AI**.
 
+🌟 [Visit my Website!](https://bhavikshangari.github.io/)  
+ 
 ---
 
 ## 📖 About Me
