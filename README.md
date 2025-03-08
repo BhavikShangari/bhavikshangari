@@ -15,7 +15,7 @@ I'm **Bhavik Shangari**, a passionate Machine Learning and Artificial Intelligen
 
 ## 🏆 Key Projects
 
-### 🚀 [Jetson-VLM 2](https://github.com/BhavikShangari/Jetson-VLM)
+### 🚀 [Jetson-VLM](https://github.com/BhavikShangari/Jetson-VLM)
 - Trained a **multimodal model** combining **SigLip** and **DINO V2** vision encoders with **LLama 3.2 (1B)**.
 - Focused on deploying Vision Language Models on low-powered devices like **Jetson Nano**.
 - Implemented **image alignment** using Llava 595K v1.5 Data Mixture.
@@ -65,3 +65,5 @@ I'm **Bhavik Shangari**, a passionate Machine Learning and Artificial Intelligen
 ---
 
 💡 *Let's collaborate on exciting AI and robotics projects! Feel free to explore my repositories.*
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=BhavikShangari&label=Profile%20views&color=0e75b6&style=flat" alt="BhavikShangari" /> </p>
